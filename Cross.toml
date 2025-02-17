@@ -1,0 +1,15 @@
+[target.aarch64-unknown-linux-gnu]
+image = "rustembedded/cross:aarch64-unknown-linux-gnu"
+
+[target.armv7-unknown-linux-gnueabihf]
+image = "rustembedded/cross:armv7-unknown-linux-gnueabihf"
+
+[target.x86_64-unknown-linux-gnu]
+image = "rustembedded/cross:x86_64-unknown-linux-gnu"
+
+[target.x86_64-pc-windows-gnu]
+image = "rustembedded/cross:x86_64-pc-windows-gnu"
+
+[target.i686-pc-windows-gnu]
+image = "rustembedded/cross:i686-pc-windows-gnu"
+
