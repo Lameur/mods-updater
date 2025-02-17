@@ -1,7 +1,27 @@
 [package]
 name = "mods-updater"
+authors = [
+  "Lameur"
+]
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/Lameur/mods-updater"
+include = [
+  "src/**/**",
+  "docs/*.md",
+  "Cargo.toml",
+  "Cargo.lock",
+  "LICENSE*",
+  "README.md",
+  "assets/*"
+]
+description = "A minecraft mods updater for server"
+
+[package.metadata.wix]
+upgrade-guid = "6AB227C3-8F8F-43B1-904F-00D8E4E77045"
+path-guid = "5FE37E1A-7B70-459E-9FF2-AD905066DBB9"
+license = true
+eula = true
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
@@ -11,3 +31,8 @@ tokio = { version = "1", features = ["full"] }
 
 [build-dependencies]
 cross = "0.2"
+
+# The profile that 'dist' will build with
+[profile.dist]
+inherits = "release"
+lto = "thin"
