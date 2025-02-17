@@ -1,3 +1,18 @@
+/* Copyright (C) 2025 Lameur
+This file is part of mods-updater.
+
+mods-updater is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+mods-updater is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License */
+
 use reqwest;
 use serde::{Deserialize, Serialize};
 use std::fs;
@@ -17,8 +32,8 @@ struct ModEntry {
 struct UpdaterConfig {
     #[serde(rename = "type")]
     _service_type: Option<String>, // Prefix with an underscore
-    _path: Option<String>,         // Prefix with an underscore
-    _args: Option<String>,         // Prefix with an underscore
+    _path: Option<String>, // Prefix with an underscore
+    _args: Option<String>, // Prefix with an underscore
 }
 
 #[tokio::main]
@@ -54,7 +69,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 download_mod(&mod_entry).await?;
             }
             Ok(_) => println!("{} est à jour.", mod_entry.name),
-            Err(e) => eprintln!("Erreur lors de la vérification de {}: {}", mod_entry.name, e),
+            Err(e) => eprintln!(
+                "Erreur lors de la vérification de {}: {}",
+                mod_entry.name, e
+            ),
         }
     }
 
@@ -71,7 +89,9 @@ fn read_config(path: &str) -> Result<UpdaterConfig, Box<dyn std::error::Error>> 
 }
 
 /// Checks for updates for a given mod.
-async fn check_for_update(mod_entry: &ModEntry) -> Result<Option<String>, Box<dyn std::error::Error>> {
+async fn check_for_update(
+    mod_entry: &ModEntry,
+) -> Result<Option<String>, Box<dyn std::error::Error>> {
     if is_modrinth_url(&mod_entry.url) {
         check_for_update_on_modrinth(&mod_entry).await
     } else if is_curseforge_url(&mod_entry.url) {
