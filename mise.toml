@@ -1,0 +1,32 @@
+#:schema https://github.com/jdx/mise/blob/main/schema/mise.json
+min_version = "2024.1.1"
+
+[env]
+_.path = ["./target/debug"]
+
+[tools]
+"actionlint" = "latest"
+
+cargo = "latest"
+cargo-binstall = "latest"
+"cargo:cargo-edit" = "latest"
+"cargo:cargo-insta" = "latest"
+"cargo:toml-cli" = "latest"
+"cargo:usage-cli" = { version = "latest", os = ["linux", "windows"] }
+
+"npm:markdownlint-cli" = "latest"
+"npm:prettier" = "3"
+
+"ubi:houseabsolute/omegasort" = "latest"
+"ubi:houseabsolute/precious" = "latest"
+
+pre-commit = "latest"
+
+taplo = "latest"
+# typos = "latest"
+
+wait-for-gh-rate-limit = "latest"
+
+
+[task_config]
+includes = ["./.mise/tasks.toml"]
