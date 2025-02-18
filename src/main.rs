@@ -1,9 +1,7 @@
-use reqwest;
+use config::Config;
 use serde::{Deserialize, Serialize};
 use std::fs;
 use std::path::PathBuf;
-use tokio;
-use config::Config;
 use std::time::Duration;
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -61,10 +59,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 }
             }
             Ok(_) => println!("{} is up to date.", mod_entry.name),
-            Err(e) => eprintln!(
-                "Error checking for updates for {}: {}",
-                mod_entry.name, e
-            ),
+            Err(e) => eprintln!("Error checking for updates for {}: {}", mod_entry.name, e),
         }
     }
 
@@ -86,9 +81,9 @@ async fn check_for_update(
     curse_api_key: &Option<String>,
 ) -> Result<Option<String>, Box<dyn std::error::Error>> {
     if is_modrinth_url(&mod_entry.url) {
-        check_for_update_on_modrinth(&mod_entry).await
+        check_for_update_on_modrinth(mod_entry).await
     } else if is_curseforge_url(&mod_entry.url) {
-        check_for_update_on_curseforge(&mod_entry, curse_api_key).await
+        check_for_update_on_curseforge(mod_entry, curse_api_key).await
     } else {
         Err("Unrecognized URL (must be CurseForge or Modrinth)".into())
     }
@@ -103,9 +98,8 @@ async fn check_for_update_on_modrinth(
     // Fetch the latest version from Modrinth API
     let client = reqwest::Client::new();
     let response = client
-        .get(&format!(
-            "https://api.modrinth.com/v2/project/{}/version",
-            modrinth_id
+        .get(format!(
+            "https://api.modrinth.com/v2/project/{modrinth_id}/version"
         ))
         .send()
         .await?;
@@ -118,7 +112,7 @@ async fn check_for_update_on_modrinth(
         sorted_versions.sort_by(|a, b| {
             let date_a = a["date_published"].as_str().unwrap_or("");
             let date_b = b["date_published"].as_str().unwrap_or("");
-            date_b.cmp(&date_a)
+            date_b.cmp(date_a)
         });
 
         // Get the latest version
@@ -134,7 +128,7 @@ async fn check_for_update_on_modrinth(
     Ok(None)
 }
 
-/// Checks for updates for a given mod on CurseForge.
+/// Checks for updates for a given mod on `CurseForge`.
 async fn check_for_update_on_curseforge(
     mod_entry: &ModEntry,
     curse_api_key: &Option<String>,
@@ -142,11 +136,9 @@ async fn check_for_update_on_curseforge(
     let curseforge_id = extract_curseforge_id(&mod_entry.url)?;
 
     let client = reqwest::Client::new();
-    let mut request = client
-        .get(&format!(
-            "https://api.curse.tools/v1/cf/mods/{}/files/latest",
-            curseforge_id
-        ));
+    let mut request = client.get(format!(
+        "https://api.curse.tools/v1/cf/mods/{curseforge_id}/files/latest"
+    ));
 
     if let Some(api_key) = curse_api_key {
         request = request.header("x-api-key", api_key);
@@ -175,15 +167,15 @@ async fn check_for_update_on_curseforge(
     Ok(None)
 }
 
-/// Downloads a mod from the appropriate source (Modrinth or CurseForge).
+/// Downloads a mod from the appropriate source (Modrinth or `CurseForge`).
 async fn download_mod(
     mod_entry: &ModEntry,
     curse_api_key: &Option<String>,
 ) -> Result<(), Box<dyn std::error::Error>> {
     if is_modrinth_url(&mod_entry.url) {
-        download_from_modrinth(&mod_entry).await
+        download_from_modrinth(mod_entry).await
     } else if is_curseforge_url(&mod_entry.url) {
-        download_from_curseforge(&mod_entry, curse_api_key).await
+        download_from_curseforge(mod_entry, curse_api_key).await
     } else {
         Err("Unrecognized URL (must be CurseForge or Modrinth)".into())
     }
@@ -196,9 +188,8 @@ async fn download_from_modrinth(mod_entry: &ModEntry) -> Result<(), Box<dyn std:
     // Fetch the latest version download URL from Modrinth API
     let client = reqwest::Client::new();
     let response = client
-        .get(&format!(
-            "https://api.modrinth.com/v2/project/{}/version",
-            modrinth_id
+        .get(format!(
+            "https://api.modrinth.com/v2/project/{modrinth_id}/version"
         ))
         .send()
         .await?;
@@ -211,7 +202,7 @@ async fn download_from_modrinth(mod_entry: &ModEntry) -> Result<(), Box<dyn std:
         sorted_versions.sort_by(|a, b| {
             let date_a = a["date_published"].as_str().unwrap_or("");
             let date_b = b["date_published"].as_str().unwrap_or("");
-            date_b.cmp(&date_a)
+            date_b.cmp(date_a)
         });
 
         // Get the latest version's download URL
@@ -249,7 +240,7 @@ async fn download_from_modrinth(mod_entry: &ModEntry) -> Result<(), Box<dyn std:
     Err("Failed to fetch version information".into())
 }
 
-/// Downloads a mod from CurseForge.
+/// Downloads a mod from `CurseForge`.
 async fn download_from_curseforge(
     mod_entry: &ModEntry,
     curse_api_key: &Option<String>,
@@ -258,11 +249,9 @@ async fn download_from_curseforge(
 
     // Fetch the latest version download URL from CurseForge API
     let client = reqwest::Client::new();
-    let mut request = client
-        .get(&format!(
-            "https://api.curse.tools/v1/cf/mods/{}/files/latest",
-            curseforge_id
-        ));
+    let mut request = client.get(format!(
+        "https://api.curse.tools/v1/cf/mods/{curseforge_id}/files/latest"
+    ));
 
     if let Some(api_key) = curse_api_key {
         request = request.header("x-api-key", api_key);
@@ -292,7 +281,10 @@ async fn download_from_curseforge(
                 let mod_path = mods_dir.join(&mod_entry.filename);
                 fs::write(&mod_path, bytes)?;
 
-                println!("{} downloaded successfully from CurseForge!", mod_entry.name);
+                println!(
+                    "{} downloaded successfully from CurseForge!",
+                    mod_entry.name
+                );
                 return Ok(());
             } else {
                 retries -= 1;
@@ -316,7 +308,7 @@ fn extract_modrinth_id(url: &str) -> Result<String, Box<dyn std::error::Error>> 
     }
 }
 
-/// Extracts the CurseForge project ID from the URL.
+/// Extracts the `CurseForge` project ID from the URL.
 fn extract_curseforge_id(url: &str) -> Result<String, Box<dyn std::error::Error>> {
     let parts: Vec<&str> = url.trim_end_matches('/').split('/').collect();
     if parts.len() >= 2 && parts[parts.len() - 2] == "projects" {
@@ -331,7 +323,7 @@ fn is_modrinth_url(url: &str) -> bool {
     url.contains("modrinth.com")
 }
 
-/// Checks if a URL is a CurseForge URL.
+/// Checks if a URL is a `CurseForge` URL.
 fn is_curseforge_url(url: &str) -> bool {
     url.contains("curseforge.com")
 }

@@ -10,7 +10,7 @@ services:
     #   - 25565:25565
     image: azul/zulu-openjdk:23
     # command: java -Xms10G -Xmx30G -XX:+PerfDisableSharedMem @user_jvm_args.txt
-      # @libraries/net/minecraftforge/forge/1.20.1-47.3.29/unix_args.txt nogui
+    # @libraries/net/minecraftforge/forge/1.20.1-47.3.29/unix_args.txt nogui
     command: java -Xms10G -Xmx30G -XX:+PerfDisableSharedMem -jar mohist.jar
 
 volumes:

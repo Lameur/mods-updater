@@ -1,20 +1,18 @@
 [package]
 name = "mods-updater"
-authors = [
-  "Lameur"
-]
+authors = ["Lameur"]
 version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/Lameur/mods-updater"
 include = [
-  "src/**/**",
-  "docs/*.md",
-  "Cargo.toml",
-  "Cargo.lock",
-  "LICENSE*",
-  "EULA.rtf",
-  "README.md",
-  "assets/*"
+    "src/**/**",
+    "docs/*.md",
+    "Cargo.toml",
+    "Cargo.lock",
+    "LICENSE*",
+    "EULA.rtf",
+    "README.md",
+    "assets/*",
 ]
 description = "A minecraft mods updater for server"
 license = "GPL-3.0"
