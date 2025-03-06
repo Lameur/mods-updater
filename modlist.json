@@ -1,551 +1,429 @@
 [
     {
-        "authors": [
-            "BuiltBrokenModding"
-        ],
+        "authors": ["BuiltBrokenModding"],
         "filename": "AI-Improvements-1.20-0.5.2.jar",
         "name": "AI-Improvements",
-        "url": "https://www.curseforge.com/projects/233019",
+        "url": "https://modrinth.com/mod/ai-improvements",
         "version": "0.5.2"
     },
     {
-        "authors": [
-            "Alex Nijjar"
-        ],
+        "authors": ["Alex Nijjar"],
         "filename": "ad_astra-forge-1.20.1-1.15.19.jar",
         "name": "Ad Astra",
-        "url": "https://www.curseforge.com/projects/635042",
+        "url": "https://modrinth.com/mod/ad-astra",
         "version": "1.15.19"
     },
     {
-        "authors": [
-            "Srendi"
-        ],
+        "authors": ["Srendi"],
         "filename": "AdvancedPeripherals-1.20.1-0.7.41r.jar",
         "name": "Advanced Peripherals",
-        "url": "https://www.curseforge.com/projects/431725",
+        "url": "https://modrinth.com/mod/advanced-peripherals",
         "version": "0.7.41r"
     },
     {
-        "authors": [
-            "frikinjay"
-        ],
+        "authors": ["frikinjay"],
         "filename": "almanac-1.20.x-forge-1.0.2.jar",
         "name": "Almanac",
         "url": "https://www.curseforge.com/projects/1115285",
         "version": "1.0.2"
     },
     {
-        "authors": [
-            "Almost Reliable"
-        ],
+        "authors": ["Almost Reliable"],
         "filename": "almostunified-forge-1.20.1-0.9.4.jar",
         "name": "AlmostUnified",
-        "url": "https://www.curseforge.com/projects/633823",
+        "url": "https://modrinth.com/mod/almost-unified",
         "version": "1.20.1-0.9.4"
     },
     {
-        "authors": [
-            "CreativeMD"
-        ],
+        "authors": ["CreativeMD"],
         "filename": "AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
         "name": "AmbientSounds",
-        "url": "https://modrinth.com/mod/fM515JnW",
+        "url": "https://modrinth.com/mod/ambientsounds",
         "version": "6.1.4"
     },
     {
-        "authors": [
-            "squeek"
-        ],
+        "authors": ["squeek"],
         "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
         "name": "AppleSkin",
-        "url": "https://www.curseforge.com/projects/248787",
+        "url": "https://modrinth.com/mod/appleskin",
         "version": "2.5.1+mc1.20.1"
     },
     {
-        "authors": [
-            "shedaniel"
-        ],
+        "authors": ["shedaniel"],
         "filename": "architectury-9.2.14-forge.jar",
         "name": "Architectury",
-        "url": "https://www.curseforge.com/projects/419699",
+        "url": "https://modrinth.com/mod/architectury-api",
         "version": "9.2.14"
     },
     {
-        "authors": [
-            "Mrbysco"
-        ],
+        "authors": ["Mrbysco"],
         "filename": "ArmorPoser-forge-1.20.1-2.2.2.jar",
         "name": "Armor Poser",
-        "url": "https://www.curseforge.com/projects/450663",
+        "url": "https://modrinth.com/mod/armor-poser",
         "version": "2.2.2"
     },
     {
-        "authors": [
-            "Cheos"
-        ],
+        "authors": ["Cheos"],
         "filename": "armorpointspp-forge-1.20-3.1.1.jar",
         "name": "ArmorPoints++",
-        "url": "https://www.curseforge.com/projects/396094",
+        "url": "https://modrinth.com/mod/armorpoints",
         "version": "1.20-3.1.1"
     },
     {
-        "authors": [
-            "RiskyKen, SAGESSE"
-        ],
+        "authors": ["RiskyKen", "SAGESSE"],
         "filename": "armourersworkshop-forge-1.20.1-3.1.6-beta.jar",
         "name": "Armourer's Workshop",
-        "url": "https://modrinth.com/mod/y4JF3gXL",
+        "url": "https://modrinth.com/mod/armourers-workshop",
         "version": "3.1.6-beta"
     },
     {
-        "authors": [
-            "Alexthw"
-        ],
+        "authors": ["Alexthw"],
         "filename": "ars_elemental-1.20.1-0.6.7.7.jar",
         "name": "Ars Elemental",
-        "url": "https://www.curseforge.com/projects/561470",
+        "url": "https://modrinth.com/mod/ars-elemental",
         "version": "0.6.7.7"
     },
     {
-        "authors": [
-            "Bailey Hollingsworth"
-        ],
+        "authors": ["Bailey Hollingsworth"],
         "filename": "ars_nouveau-1.20.1-4.12.6-all.jar",
         "name": "Ars Nouveau",
-        "url": "https://www.curseforge.com/projects/401955",
+        "url": "https://modrinth.com/mod/ars-nouveau",
         "version": "4.12.6"
     },
     {
-        "authors": [
-            "ochotonida"
-        ],
+        "authors": ["ochotonida"],
         "filename": "artifacts-forge-9.5.13.jar",
         "name": "Artifacts",
-        "url": "https://www.curseforge.com/projects/312353",
+        "url": "https://modrinth.com/mod/artifacts",
         "version": "9.5.13"
     },
     {
-        "authors": [
-            "ThatGravyBoat"
-        ],
+        "authors": ["ThatGravyBoat"],
         "filename": "athena-forge-1.20.1-3.1.2.jar",
         "name": "Athena",
-        "url": "https://www.curseforge.com/projects/841890",
+        "url": "https://modrinth.com/mod/athena",
         "version": "3.1.2"
     },
     {
-        "authors": [
-            "Darkhax"
-        ],
+        "authors": ["Darkhax"],
         "filename": "AttributeFix-Forge-1.20.1-21.0.4.jar",
         "name": "AttributeFix",
-        "url": "https://www.curseforge.com/projects/280510",
+        "url": "https://modrinth.com/mod/attributefix",
         "version": "21.0.4"
     },
     {
-        "authors": [
-            "Thonk"
-        ],
+        "authors": ["Thonk"],
         "filename": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
         "name": "BOZOID",
         "url": "https://www.curseforge.com/projects/885449",
         "version": "0.1.2"
     },
     {
-        "authors": [
-            "Thosea"
-        ],
+        "authors": ["Thosea"],
         "filename": "BadOptimizations-2.2.1-1.20.1.jar",
         "name": "BadOptimizations",
-        "url": "https://www.curseforge.com/projects/949555",
+        "url": "https://modrinth.com/mod/badoptimizations",
         "version": "2.2.1"
     },
     {
-        "authors": [
-            "BlayTheNinth"
-        ],
+        "authors": ["BlayTheNinth"],
         "filename": "balm-forge-1.20.1-7.3.16-all.jar",
         "name": "Balm",
-        "url": "https://www.curseforge.com/projects/531761",
+        "url": "https://modrinth.com/mod/balm",
         "version": "7.3.16"
     },
     {
-        "authors": [
-            "Rick South"
-        ],
+        "authors": ["Rick South"],
         "filename": "beautifiedchatserver-1.20.1-2.7.jar",
         "name": "Beautified Chat Server",
-        "url": "https://www.curseforge.com/projects/514796",
+        "url": "https://modrinth.com/mod/beautifiedchatserver",
         "version": "2.7"
     },
     {
-        "authors": [
-            "way2muchnoise"
-        ],
+        "authors": ["way2muchnoise"],
         "filename": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
         "name": "Better Advancements",
-        "url": "https://www.curseforge.com/projects/272515",
+        "url": "https://modrinth.com/mod/better-advancements",
         "version": "0.4.2.25"
     },
     {
-        "authors": [
-            "WayofTime"
-        ],
+        "authors": ["WayofTime"],
         "filename": "bloodmagic-1.20.1-3.3.3-45.jar",
         "name": "Blood Magic",
-        "url": "https://www.curseforge.com/projects/224791",
+        "url": "https://modrinth.com/mod/blood-magic",
         "version": "3.3.3-45"
     },
     {
-        "authors": [
-            "Blue (TBlueF, Lukas Rieger)"
-        ],
+        "authors": ["Blue (TBlueF, Lukas Rieger)"],
         "filename": "BlueMap-5.3-forge-1.20.jar",
         "name": "BlueMap",
-        "url": "https://www.curseforge.com/projects/406463",
+        "url": "https://modrinth.com/mod/bluemap",
         "version": "5.3"
     },
     {
-        "authors": [
-            "Darkhax"
-        ],
+        "authors": ["Darkhax"],
         "filename": "Bookshelf-Forge-1.20.1-20.2.13.jar",
         "name": "Bookshelf",
-        "url": "https://www.curseforge.com/projects/228525",
+        "url": "https://modrinth.com/mod/bookshelf",
         "version": "20.2.13"
     },
     {
-        "authors": [
-            "CodexAdrian"
-        ],
+        "authors": ["CodexAdrian"],
         "filename": "botarium-forge-1.20.1-2.3.4.jar",
         "name": "Botarium",
-        "url": "https://www.curseforge.com/projects/704113",
+        "url": "https://modrinth.com/mod/botarium",
         "version": "2.3.4"
     },
     {
-        "authors": [
-            "Daniel Ratcliffe, Aaron Mills, SquidDev"
-        ],
+        "authors": ["Daniel Ratcliffe", "Aaron Mills", "SquidDev"],
         "filename": "cc-tweaked-1.20.1-forge-1.115.0.jar",
         "name": "CC: Tweaked",
-        "url": "https://modrinth.com/mod/gu7yAYhd",
+        "url": "https://modrinth.com/mod/cc-tweaked",
         "version": "1.115.0"
     },
     {
-        "authors": [
-            "Sammy L. Koch & Luke A. Hanssen"
-        ],
+        "authors": ["Sammy L. Koch & Luke A. Hanssen"],
         "filename": "cccbridge-mc1.20.1-forge-1.6.3.jar",
         "name": "CC:C Bridge",
-        "url": "https://modrinth.com/mod/fXt291FO",
+        "url": "https://modrinth.com/mod/cccbridge",
         "version": "1.6.3-forge"
     },
     {
-        "authors": [
-            "C4"
-        ],
+        "authors": ["C4"],
         "filename": "caelus-forge-3.2.0+1.20.1.jar",
         "name": "Caelus API",
-        "url": "https://www.curseforge.com/projects/308989",
+        "url": "https://modrinth.com/mod/caelus",
         "version": "3.2.0+1.20.1"
     },
     {
-        "authors": [
-            "MrCrayfish"
-        ],
+        "authors": ["MrCrayfish"],
         "filename": "catalogue-forge-1.20.1-1.8.0.jar",
         "name": "Catalogue",
-        "url": "https://www.curseforge.com/projects/459701",
+        "url": "https://modrinth.com/mod/catalogue",
         "version": "1.8.0"
     },
     {
-        "authors": [
-            "Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat"
-        ],
+        "authors": ["Alex Nijjar", "Grimbop", "Kekie6", "ThatGravyBoat"],
         "filename": "chipped-forge-1.20.1-3.0.7.jar",
         "name": "Chipped",
-        "url": "https://www.curseforge.com/projects/456956",
+        "url": "https://modrinth.com/mod/chipped",
         "version": "3.0.7"
     },
     {
-        "authors": [
-            "Alexthe666"
-        ],
+        "authors": ["Alexthe666"],
         "filename": "citadel-2.6.1-1.20.1.jar",
         "name": "Citadel",
-        "url": "https://www.curseforge.com/projects/331936",
+        "url": "https://modrinth.com/mod/citadel",
         "version": "2.6.1"
     },
     {
-        "authors": [
-            "stal111"
-        ],
+        "authors": ["stal111"],
         "filename": "clean_tooltips-1.0-forge-1.20.1.jar",
         "name": "Clean Tooltips",
         "url": "https://www.curseforge.com/projects/855017",
         "version": "1.0"
     },
     {
-        "authors": [
-            "shedaniel"
-        ],
+        "authors": ["shedaniel"],
         "filename": "cloth-config-11.1.136-forge.jar",
         "name": "Cloth Config v10 API",
-        "url": "https://www.curseforge.com/projects/348521",
+        "url": "https://modrinth.com/mod/cloth-config",
         "version": "11.1.136"
     },
     {
-        "authors": [
-            "Jaredlll08"
-        ],
+        "authors": ["Jaredlll08"],
         "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
         "name": "Clumps",
-        "url": "https://www.curseforge.com/projects/256717",
+        "url": "https://modrinth.com/mod/clumps",
         "version": "12.0.0.4"
     },
     {
-        "authors": [
-            "ChickenBones, covers1624"
-        ],
+        "authors": ["ChickenBones", "covers1624"],
         "filename": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
         "name": "CodeChicken Lib",
         "url": "https://www.curseforge.com/projects/242818",
         "version": "4.4.0.516"
     },
     {
-        "authors": [
-            "Rick South"
-        ],
+        "authors": ["Rick South"],
         "filename": "collective-1.20.1-7.91.jar",
         "name": "Collective",
-        "url": "https://www.curseforge.com/projects/342584",
+        "url": "https://modrinth.com/mod/collective",
         "version": "7.91"
     },
     {
-        "authors": [
-            "rubensworks (aka kroeser)"
-        ],
+        "authors": ["rubensworks (aka kroeser)"],
         "filename": "CommonCapabilities-1.20.1-2.9.4.jar",
         "name": "CommonCapabilities",
         "url": "https://www.curseforge.com/projects/247007",
         "version": "2.9.4"
     },
     {
-        "authors": [
-            "Jonko0493"
-        ],
+        "authors": ["Jonko0493"],
         "filename": "computer_cartographer-1.20.1-1.0-forge.jar",
         "name": "Computer Cartographer",
         "url": "https://www.curseforge.com/projects/940973",
         "version": "1.0"
     },
     {
-        "authors": [
-            "MrCrayfish"
-        ],
+        "authors": ["MrCrayfish"],
         "filename": "configured-forge-1.20.1-2.2.3.jar",
         "name": "Configured",
-        "url": "https://www.curseforge.com/projects/457570",
+        "url": "https://modrinth.com/mod/configured",
         "version": "2.2.3"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "connectedglass-1.1.12-forge-mc1.20.1.jar",
         "name": "Connected Glass",
-        "url": "https://www.curseforge.com/projects/383129",
+        "url": "https://modrinth.com/mod/connected-glass",
         "version": "1.1.12"
     },
     {
-        "authors": [
-            "ThetaDev"
-        ],
+        "authors": ["ThetaDev"],
         "filename": "constructionwand-1.20.1-2.11.jar",
         "name": "Construction Wand",
-        "url": "https://www.curseforge.com/projects/399558",
+        "url": "https://modrinth.com/mod/construction-wand",
         "version": "1.20.1-2.11"
     },
     {
-        "authors": [
-            "Jaredlll08"
-        ],
+        "authors": ["Jaredlll08"],
         "filename": "Controlling-forge-1.20.1-12.0.2.jar",
         "name": "Controlling",
-        "url": "https://www.curseforge.com/projects/250398",
+        "url": "https://modrinth.com/mod/controlling",
         "version": "12.0.2"
     },
     {
-        "authors": [
-            "BlayTheNinth"
-        ],
+        "authors": ["BlayTheNinth"],
         "filename": "cookingforblockheads-forge-1.20.1-16.0.12.jar",
         "name": "CookingForBlockheads",
-        "url": "https://www.curseforge.com/projects/231484",
+        "url": "https://modrinth.com/mod/cooking-for-blockheads",
         "version": "16.0.12"
     },
     {
-        "authors": [
-            "Corgi Taco"
-        ],
+        "authors": ["Corgi Taco"],
         "filename": "Corgilib-Forge-1.20.1-4.0.3.3.jar",
         "name": "CorgiLib",
-        "url": "https://www.curseforge.com/projects/693313",
+        "url": "https://modrinth.com/mod/corgilib",
         "version": "4.0.3.3"
     },
     {
-        "authors": [
-            "Max Henkel"
-        ],
+        "authors": ["Max Henkel"],
         "filename": "corpse-forge-1.20.1-1.0.20.jar",
         "name": "Corpse",
-        "url": "https://www.curseforge.com/projects/316582",
+        "url": "https://modrinth.com/mod/corpse",
         "version": "1.20.1-1.0.20"
     },
     {
-        "authors": [
-            "zlainsama"
-        ],
+        "authors": ["zlainsama"],
         "filename": "cosmeticarmorreworked-1.20.1-v1a.jar",
         "name": "CosmeticArmorReworked",
-        "url": "https://www.curseforge.com/projects/237307",
+        "url": "https://modrinth.com/mod/cosmetic-armor",
         "version": "1.20.1-v1a"
     },
     {
-        "authors": [
-            "simibubi"
-        ],
+        "authors": ["simibubi"],
         "filename": "create-1.20.1-0.5.1.j.jar",
         "name": "Create",
-        "url": "https://www.curseforge.com/projects/328085",
+        "url": "https://modrinth.com/mod/create",
         "version": "0.5.1.j"
     },
     {
-        "authors": [
-            "MRH0"
-        ],
+        "authors": ["MRH0"],
         "filename": "createaddition-1.20.1-1.2.5.jar",
         "name": "Create Crafts & Additions",
-        "url": "https://www.curseforge.com/projects/439890",
+        "url": "https://modrinth.com/mod/createaddition",
         "version": "1.20.1-1.2.5"
     },
     {
-        "authors": [
-            "Kayla, Talrey"
-        ],
+        "authors": ["Kayla", "Talrey"],
         "filename": "createdeco-2.0.2-1.20.1-forge.jar",
         "name": "Create Deco",
-        "url": "https://www.curseforge.com/projects/509285",
+        "url": "https://modrinth.com/mod/create-deco",
         "version": "2.0.2-1.20.1-forge"
     },
     {
-        "authors": [
-            "Dadamalda"
-        ],
+        "authors": ["Dadamalda"],
         "filename": "create_lt-1.0.1-forge-mc1.20.1.jar",
         "name": "Create: Less Ticking",
         "url": "https://www.curseforge.com/projects/1084974",
         "version": "1.0.1-forge-mc1.20.1"
     },
     {
-        "authors": [
-            "MrKM"
-        ],
+        "authors": ["MrKM"],
         "filename": "create_pneuequip-0.3-forge-1.20.1.jar",
         "name": "Create: pneumatic equipment",
         "url": "https://www.curseforge.com/projects/1140073",
         "version": "0.3"
     },
     {
-        "authors": [
-            "Ultramega"
-        ],
+        "authors": ["Ultramega"],
         "filename": "creativewirelesstransmitter-1.20.1-1.1.jar",
         "name": "Creative Wireless Transmitter",
         "url": "https://www.curseforge.com/projects/452645",
         "version": "1.20.1-1.1"
     },
     {
-        "authors": [
-            "CreativeMD"
-        ],
+        "authors": ["CreativeMD"],
         "filename": "CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
         "name": "CreativeCore",
-        "url": "https://www.curseforge.com/projects/257814",
+        "url": "https://modrinth.com/mod/creativecore",
         "version": "2.12.31"
     },
     {
-        "authors": [
-            "Cristelknight999"
-        ],
+        "authors": ["Cristelknight999"],
         "filename": "cristellib-1.1.6-forge.jar",
         "name": "Cristel Lib",
-        "url": "https://www.curseforge.com/projects/856996",
+        "url": "https://modrinth.com/mod/cristel-lib",
         "version": "1.1.6"
     },
     {
-        "authors": [
-            "BlakeBr0"
-        ],
+        "authors": ["BlakeBr0"],
         "filename": "Cucumber-1.20.1-7.0.13.jar",
         "name": "Cucumber Library",
-        "url": "https://www.curseforge.com/projects/272335",
+        "url": "https://modrinth.com/mod/cucumber",
         "version": "7.0.13"
     },
     {
-        "authors": [
-            "Someaddon"
-        ],
+        "authors": ["Someaddon"],
         "filename": "cupboard-1.20.1-2.7.jar",
         "name": "Cupboard utilities",
-        "url": "https://www.curseforge.com/projects/326652",
+        "url": "https://modrinth.com/mod/cupboard",
         "version": "1.20.1-2.7"
     },
     {
-        "authors": [
-            "C4"
-        ],
+        "authors": ["C4"],
         "filename": "curios-forge-5.11.1+1.20.1.jar",
         "name": "Curios API",
-        "url": "https://www.curseforge.com/projects/309927",
+        "url": "https://modrinth.com/mod/curios",
         "version": "5.11.1+1.20.1"
     },
     {
-        "authors": [
-            "yzl210"
-        ],
+        "authors": ["yzl210"],
         "filename": "CuriosQuarkOBP-1.20.1-1.2.5.jar",
         "name": "Curios Quark Oddities Backpack",
         "url": "https://www.curseforge.com/projects/445208",
         "version": "1.2.5"
     },
     {
-        "authors": [
-            "rubensworks (aka kroeser)"
-        ],
+        "authors": ["rubensworks (aka kroeser)"],
         "filename": "CyclopsCore-1.20.1-1.19.7.jar",
         "name": "Cyclops Core",
-        "url": "https://www.curseforge.com/projects/232758",
+        "url": "https://modrinth.com/mod/cyclops-core",
         "version": "1.19.7"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "durabilitytooltip-1.1.5-forge-mc1.20.jar",
         "name": "Durability Tooltip",
-        "url": "https://www.curseforge.com/projects/511040",
+        "url": "https://modrinth.com/mod/durability-tooltip",
         "version": "1.1.5"
     },
     {
-        "authors": [
-            "juliand665 & LostLuma"
-        ],
+        "authors": ["juliand665 & LostLuma"],
         "filename": "dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar",
         "name": "Dynamic FPS",
-        "url": "https://www.curseforge.com/projects/335493",
+        "url": "https://modrinth.com/mod/dynamic-fps",
         "version": "3.7.7"
     },
     {
@@ -555,1125 +433,877 @@
         "version": "2.3"
     },
     {
-        "authors": [
-            "Emi"
-        ],
+        "authors": ["Emi"],
         "filename": "emi-1.1.19+1.20.1+forge.jar",
         "name": "EMI",
-        "url": "https://www.curseforge.com/projects/580555",
+        "url": "https://modrinth.com/mod/emi",
         "version": "1.1.19+1.20.1+forge"
     },
     {
-        "authors": [
-            "Fuzs"
-        ],
+        "authors": ["Fuzs"],
         "filename": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
         "name": "Easy Anvils",
-        "url": "https://www.curseforge.com/projects/682567",
+        "url": "https://modrinth.com/mod/easy-anvils",
         "version": "8.0.2"
     },
     {
-        "authors": [
-            "Fuzs"
-        ],
+        "authors": ["Fuzs"],
         "filename": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
         "name": "Easy Magic",
-        "url": "https://www.curseforge.com/projects/456239",
+        "url": "https://modrinth.com/mod/easy-magic",
         "version": "8.0.1"
     },
     {
-        "authors": [
-            "Markus Bordihn"
-        ],
+        "authors": ["Markus Bordihn"],
         "filename": "easy_npc-forge-1.20.1-5.9.0.jar",
         "name": "Easy NPC",
-        "url": "https://www.curseforge.com/projects/559312",
+        "url": "https://modrinth.com/mod/easy-npc",
         "version": "5.9.0"
     },
     {
-        "authors": [
-            "Markus Bordihn"
-        ],
+        "authors": ["Markus Bordihn"],
         "filename": "eco_stack_manager-forge-1.20.1-1.3.0.jar",
         "name": "Eco Stack Manager",
-        "url": "https://modrinth.com/mod/YfTOSsIw",
+        "url": "https://modrinth.com/mod/eco-stack-manager",
         "version": "1.3.0"
     },
     {
-        "authors": [
-            "VsnGamer"
-        ],
+        "authors": ["VsnGamer"],
         "filename": "elevatorid-1.20.1-lex-1.9.jar",
         "name": "Elevator Mod",
-        "url": "https://www.curseforge.com/projects/250832",
+        "url": "https://modrinth.com/mod/elevatorid",
         "version": "1.20.1-lex-1.9"
     },
     {
-        "authors": [
-            "embeddedt"
-        ],
+        "authors": ["embeddedt"],
         "filename": "embeddium-0.3.31+mc1.20.1.jar",
         "name": "Embeddium",
-        "url": "https://www.curseforge.com/projects/908741",
+        "url": "https://modrinth.com/mod/embeddium",
         "version": "0.3.31+mc1.20.1"
     },
     {
-        "authors": [
-            "SrRapero720"
-        ],
+        "authors": ["SrRapero720"],
         "filename": "embeddiumplus-1.20.1-v1.2.13.jar",
         "name": "Embeddium++",
-        "url": "https://www.curseforge.com/projects/931925",
+        "url": "https://modrinth.com/mod/embeddiumplus",
         "version": "1.2.13"
     },
     {
-        "authors": [
-            "Fuzs"
-        ],
+        "authors": ["Fuzs"],
         "filename": "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
         "name": "Enchanting Infuser",
-        "url": "https://www.curseforge.com/projects/551151",
+        "url": "https://modrinth.com/mod/enchanting-infuser",
         "version": "8.0.3"
     },
     {
-        "authors": [
-            "Darkhax"
-        ],
+        "authors": ["Darkhax"],
         "filename": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
         "name": "EnchantmentDescriptions",
-        "url": "https://www.curseforge.com/projects/250419",
+        "url": "https://modrinth.com/mod/enchantment-descriptions",
         "version": "17.1.19"
     },
     {
-        "authors": [
-            "ChickenBones, covers1624"
-        ],
+        "authors": ["ChickenBones", "covers1624"],
         "filename": "EnderStorage-1.20.1-2.11.0.188-universal.jar",
         "name": "EnderStorage",
         "url": "https://www.curseforge.com/projects/245174",
         "version": "2.11.0.188"
     },
     {
-        "authors": [
-            "tr7zw"
-        ],
+        "authors": ["tr7zw"],
         "filename": "entityculling-forge-1.7.2-mc1.20.1.jar",
         "name": "EntityCulling",
-        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "url": "https://modrinth.com/mod/entityculling",
         "version": "1.7.2"
     },
     {
-        "authors": [
-            "Jackyy, TurkeyDev"
-        ],
+        "authors": ["Jackyy", "TurkeyDev"],
         "filename": "Exchangers-1.20.1-3.5.1.jar",
         "name": "Exchangers",
-        "url": "https://www.curseforge.com/projects/270183",
+        "url": "https://modrinth.com/mod/exchangers",
         "version": "1.20.1-3.5.1"
     },
     {
-        "authors": [
-            "MelanX"
-        ],
+        "authors": ["MelanX"],
         "filename": "ExtraDisks-1.20.1-3.0.2.jar",
         "name": "Extra Disks",
-        "url": "https://www.curseforge.com/projects/351491",
+        "url": "https://modrinth.com/mod/extradisks",
         "version": "1.20.1-3.0.2"
     },
     {
-        "authors": [
-            "CreeperHost"
-        ],
+        "authors": ["CreeperHost"],
         "filename": "ftbbackups2-forge-1.20-1.0.23.jar",
         "name": "FTB Backups 2",
-        "url": "https://www.curseforge.com/projects/622737",
+        "url": "https://modrinth.com/mod/ftb-backups-2",
         "version": "1.0.23"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-chunks-forge-2001.3.5.jar",
         "name": "FTB Chunks",
-        "url": "https://www.curseforge.com/projects/314906",
+        "url": "https://modrinth.com/mod/ftb-chunks",
         "version": "2001.3.5"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-essentials-forge-2001.2.2.jar",
         "name": "FTB Essentials",
-        "url": "https://www.curseforge.com/projects/410811",
+        "url": "https://modrinth.com/mod/ftb-essentials",
         "version": "2001.2.2"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-library-forge-2001.2.9.jar",
         "name": "FTB Library",
-        "url": "https://www.curseforge.com/projects/404465",
+        "url": "https://modrinth.com/mod/ftb-library",
         "version": "2001.2.9"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-ranks-forge-2001.1.3.jar",
         "name": "FTB Ranks",
-        "url": "https://www.curseforge.com/projects/314905",
+        "url": "https://modrinth.com/mod/ftb-ranks",
         "version": "2001.1.3"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-teams-forge-2001.3.1.jar",
         "name": "FTB Teams",
-        "url": "https://www.curseforge.com/projects/404468",
+        "url": "https://modrinth.com/mod/ftb-teams",
         "version": "2001.3.1"
     },
     {
-        "authors": [
-            "FTB Team"
-        ],
+        "authors": ["FTB Team"],
         "filename": "ftb-ultimine-forge-2001.1.5.jar",
         "name": "FTB Ultimine",
-        "url": "https://www.curseforge.com/projects/386134",
+        "url": "https://modrinth.com/mod/ftb-ultimine",
         "version": "2001.1.5"
     },
     {
-        "authors": [
-            "Fallen_Breath"
-        ],
+        "authors": ["Fallen_Breath"],
         "filename": "fast-ip-ping-v1.0.5-mc1.20.4-forge.jar",
         "name": "Fast IP Ping",
-        "url": "https://www.curseforge.com/projects/904356",
+        "url": "https://modrinth.com/mod/fast-ip-ping",
         "version": "1.0.5"
     },
     {
-        "authors": [
-            "Olafski"
-        ],
+        "authors": ["Olafski"],
         "filename": "FastLeafDecay-32.jar",
         "name": "Fast Leaf Decay",
-        "url": "https://www.curseforge.com/projects/230976",
+        "url": "https://modrinth.com/mod/fastleafdecay",
         "version": "32"
     },
     {
-        "authors": [
-            "Shadows_of_Fire"
-        ],
+        "authors": ["Shadows_of_Fire"],
         "filename": "FastSuite-1.20.1-5.0.1.jar",
         "name": "Fast Suite",
-        "url": "https://www.curseforge.com/projects/475117",
+        "url": "https://modrinth.com/mod/fastsuite",
         "version": "5.0.1"
     },
     {
-        "authors": [
-            "Shadows_of_Fire"
-        ],
+        "authors": ["Shadows_of_Fire"],
         "filename": "FastWorkbench-1.20.1-8.0.4.jar",
         "name": "Fast Workbench",
-        "url": "https://www.curseforge.com/projects/288885",
+        "url": "https://modrinth.com/mod/fastworkbench",
         "version": "8.0.4"
     },
     {
-        "authors": [
-            "dnlayu"
-        ],
+        "authors": ["dnlayu"],
         "filename": "fastboot-1.20.x-1.2.jar",
         "name": "FastBoot",
-        "url": "https://modrinth.com/mod/nRL5uFe0",
+        "url": "https://modrinth.com/mod/fastboot",
         "version": "1.2"
     },
     {
-        "authors": [
-            "Shadows_of_Fire"
-        ],
+        "authors": ["Shadows_of_Fire"],
         "filename": "FastFurnace-1.20.1-8.0.2.jar",
         "name": "FastFurnace",
-        "url": "https://www.curseforge.com/projects/299540",
+        "url": "https://modrinth.com/mod/fastfurnace",
         "version": "8.0.2"
     },
     {
-        "authors": [
-            "malte0811"
-        ],
+        "authors": ["malte0811"],
         "filename": "ferritecore-6.0.1-forge.jar",
         "name": "Ferrite Core",
-        "url": "https://www.curseforge.com/projects/429235",
+        "url": "https://modrinth.com/mod/ferritecore",
         "version": "6.0.1"
     },
     {
-        "authors": [
-            "XFactHD"
-        ],
+        "authors": ["XFactHD"],
         "filename": "FramedBlocks-9.3.1.jar",
         "name": "FramedBlocks",
-        "url": "https://www.curseforge.com/projects/441647",
+        "url": "https://modrinth.com/mod/framedblocks",
         "version": "9.3.1"
     },
     {
-        "authors": [
-            "MrCrayfish"
-        ],
+        "authors": ["MrCrayfish"],
         "filename": "framework-forge-1.20.1-0.7.12.jar",
         "name": "Framework",
-        "url": "https://www.curseforge.com/projects/549225",
+        "url": "https://modrinth.com/mod/framework",
         "version": "0.7.12"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "fusion-1.2.4-forge-mc1.20.1.jar",
         "name": "Fusion",
-        "url": "https://www.curseforge.com/projects/854949",
+        "url": "https://modrinth.com/mod/fusion",
         "version": "1.2.4"
     },
     {
-        "authors": [
-            "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
-        ],
+        "authors": ["Gecko", "Eliot", "AzureDoom", "DerToaster", "Tslat", "Witixin"],
         "filename": "geckolib-forge-1.20.1-4.7.jar",
         "name": "GeckoLib 4",
-        "url": "https://www.curseforge.com/projects/388172",
+        "url": "https://modrinth.com/mod/geckolib",
         "version": "4.7"
     },
     {
-        "authors": [
-            "Someaddon"
-        ],
+        "authors": ["Someaddon"],
         "filename": "gpumemleakfix-1.20.1-1.8.jar",
         "name": "Gpu memory leak fix",
-        "url": "https://www.curseforge.com/projects/882495",
+        "url": "https://modrinth.com/mod/gpumemleakfix",
         "version": "1.20.1-1.8"
     },
     {
-        "authors": [
-            "Jackyy"
-        ],
+        "authors": ["Jackyy"],
         "filename": "GunpowderLib-1.20.2-2.2.2.jar",
         "name": "GunpowderLib",
         "url": "https://www.curseforge.com/projects/356646",
         "version": "1.20.2-2.2.2"
     },
     {
-        "authors": [
-            "CraisinLord"
-        ],
+        "authors": ["CraisinLord"],
         "filename": "integrated_api-1.5.1+1.20.1-forge.jar",
         "name": "Integrated API",
-        "url": "https://www.curseforge.com/projects/817709",
+        "url": "https://modrinth.com/mod/integrated-api",
         "version": "1.5.1+1.20.1-forge"
     },
     {
-        "authors": [
-            "rubensworks (aka kroeser)"
-        ],
+        "authors": ["rubensworks (aka kroeser)"],
         "filename": "IntegratedDynamics-1.20.1-1.25.2.jar",
         "name": "IntegratedDynamics",
-        "url": "https://www.curseforge.com/projects/236307",
+        "url": "https://modrinth.com/mod/integrated-dynamics",
         "version": "1.25.2"
     },
     {
-        "authors": [
-            "rubensworks (aka kroeser)"
-        ],
+        "authors": ["rubensworks (aka kroeser)"],
         "filename": "IntegratedTunnels-1.20.1-1.8.34.jar",
         "name": "IntegratedTunnels",
-        "url": "https://www.curseforge.com/projects/251389",
+        "url": "https://modrinth.com/mod/integrated-tunnels",
         "version": "1.8.34"
     },
     {
-        "authors": [
-            "frankV"
-        ],
+        "authors": ["frankV"],
         "filename": "jmi-forge-1.20.1-0.14-48.jar",
         "name": "JourneyMap Integration",
-        "url": "https://www.curseforge.com/projects/525447",
+        "url": "https://modrinth.com/mod/journeymap-integration",
         "version": "1.20.1-0.14-48"
     },
     {
-        "authors": [
-            "Techbrew, Mysticdrew"
-        ],
+        "authors": ["Techbrew", "Mysticdrew"],
         "filename": "journeymap-1.20.1-5.10.3-forge.jar",
         "name": "Journeymap",
-        "url": "https://www.curseforge.com/projects/32274",
+        "url": "https://modrinth.com/mod/journeymap",
         "version": "5.10.3"
     },
     {
-        "authors": [
-            "mezz"
-        ],
+        "authors": ["mezz"],
         "filename": "jei-1.20.1-forge-15.20.0.106.jar",
         "name": "Just Enough Items",
-        "url": "https://www.curseforge.com/projects/238222",
+        "url": "https://modrinth.com/mod/jei",
         "version": "15.20.0.106"
     },
     {
-        "authors": [
-            "gisellevonbingen"
-        ],
+        "authors": ["gisellevonbingen"],
         "filename": "JustEnoughMekanismMultiblocks-1.20.1-4.10.jar",
         "name": "Just Enough Mekanism Multiblocks",
-        "url": "https://www.curseforge.com/projects/898746",
+        "url": "https://modrinth.com/mod/jemm",
         "version": "4.10"
     },
     {
-        "authors": [
-            "way2muchnoise"
-        ],
+        "authors": ["way2muchnoise"],
         "filename": "JustEnoughResources-1.20.1-1.4.0.247.jar",
         "name": "Just Enough Resources",
-        "url": "https://www.curseforge.com/projects/240630",
+        "url": "https://modrinth.com/mod/jer",
         "version": "1.4.0.247"
     },
     {
-        "authors": [
-            "frikinjay"
-        ],
+        "authors": ["frikinjay"],
         "filename": "letmedespawn-1.20.x-forge-1.4.4.jar",
         "name": "Let Me Despawn",
-        "url": "https://www.curseforge.com/projects/663477",
+        "url": "https://modrinth.com/mod/let-me-despawn",
         "version": "1.4.4"
     },
     {
-        "authors": [
-            "Darkhax"
-        ],
+        "authors": ["Darkhax"],
         "filename": "MaxHealthFix-Forge-1.20.1-12.0.3.jar",
         "name": "MaxHealthFix",
-        "url": "https://www.curseforge.com/projects/492246",
+        "url": "https://modrinth.com/mod/max-health-fix",
         "version": "12.0.3"
     },
     {
-        "authors": [
-            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
-        ],
+        "authors": ["Aidancbrady", "Thommy101", "Thiakil", "pupnewfster", "dizzyd"],
         "filename": "Mekanism-1.20.1-10.4.14.71.jar",
         "name": "Mekanism",
-        "url": "https://www.curseforge.com/projects/268560",
+        "url": "https://modrinth.com/mod/mekanism",
         "version": "10.4.14"
     },
     {
-        "authors": [
-            "D4rkness_King"
-        ],
+        "authors": ["D4rkness_King"],
         "filename": "mekanismcovers-1.3-BETA+1.20.jar",
         "name": "Mekanism Covers",
         "url": "https://www.curseforge.com/projects/1119874",
         "version": "1.3-BETA+1.20"
     },
     {
-        "authors": [
-            "Ominox_"
-        ],
+        "authors": ["Ominox_"],
         "filename": "mekanism_lasers-1.0.10.jar",
         "name": "Mekanism Lasers",
         "url": "https://www.curseforge.com/projects/1060096",
         "version": "1.0.10"
     },
     {
-        "authors": [
-            "x3r"
-        ],
+        "authors": ["x3r"],
         "filename": "mekanism_turrets-1.2.2.jar",
         "name": "Mekanism Turrets",
         "url": "https://www.curseforge.com/projects/1031448",
         "version": "1.2.2"
     },
     {
-        "authors": [
-            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
-        ],
+        "authors": ["Aidancbrady", "Thommy101", "Thiakil", "pupnewfster", "dizzyd"],
         "filename": "MekanismAdditions-1.20.1-10.4.14.71.jar",
         "name": "Mekanism: Additions",
-        "url": "https://www.curseforge.com/projects/345425",
+        "url": "https://modrinth.com/mod/mekanism-additions",
         "version": "10.4.14"
     },
     {
-        "authors": [
-            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
-        ],
+        "authors": ["Aidancbrady", "Thommy101", "Thiakil", "pupnewfster", "dizzyd"],
         "filename": "MekanismGenerators-1.20.1-10.4.14.71.jar",
         "name": "Mekanism: Generators",
-        "url": "https://www.curseforge.com/projects/268566",
+        "url": "https://modrinth.com/mod/mekanism-generators",
         "version": "10.4.14"
     },
     {
-        "authors": [
-            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
-        ],
+        "authors": ["Aidancbrady", "Thommy101", "Thiakil", "pupnewfster", "dizzyd"],
         "filename": "MekanismTools-1.20.1-10.4.14.71.jar",
         "name": "Mekanism: Tools",
-        "url": "https://www.curseforge.com/projects/268567",
+        "url": "https://modrinth.com/mod/mekanism-tools",
         "version": "10.4.14"
     },
     {
-        "authors": [
-            "oMeranha"
-        ],
+        "authors": ["oMeranha"],
         "filename": "MekanismWeapons-1.20.1-2.5.jar",
         "name": "Mekanism: Weapons",
         "url": "https://www.curseforge.com/projects/929829",
         "version": "2.5"
     },
     {
-        "authors": [
-            "FX - PR0CESS"
-        ],
+        "authors": ["FX - PR0CESS"],
         "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
         "name": "Memory Leak Fix",
-        "url": "https://modrinth.com/mod/NRjRiSSD",
+        "url": "https://modrinth.com/mod/memoryleakfix",
         "version": "1.1.5"
     },
     {
-        "authors": [
-            "IMB11"
-        ],
+        "authors": ["IMB11"],
         "filename": "MRU-1.0.4+1.20.1+forge.jar",
         "name": "Mineblock's Repeated Utilities",
-        "url": "https://www.curseforge.com/projects/669659",
+        "url": "https://modrinth.com/mod/mru",
         "version": "1.0.4+1.20.1+forge"
     },
     {
-        "authors": [
-            "MehVahdJukaar, Bonusboni"
-        ],
+        "authors": ["MehVahdJukaar", "Bonusboni"],
         "filename": "dummmmmmy-1.20-2.0.2.jar",
         "name": "MmmMmmMmmmmm",
-        "url": "https://www.curseforge.com/projects/225738",
+        "url": "https://modrinth.com/mod/mmmmmmmmmm",
         "version": "1.20-2.0.2"
     },
     {
-        "authors": [
-            "vadis365, flanks255"
-        ],
+        "authors": ["vadis365", "flanks255"],
         "filename": "mob_grinding_utils-1.20.1-1.1.0.jar",
         "name": "Mob Grinding Utils",
-        "url": "https://www.curseforge.com/projects/254241",
+        "url": "https://modrinth.com/mod/mob-grinding-utils",
         "version": "1.20.1-1.1.0"
     },
     {
-        "authors": [
-            "embeddedt"
-        ],
+        "authors": ["embeddedt"],
         "filename": "modernfix-forge-5.20.2+mc1.20.1.jar",
         "name": "ModernFix",
-        "url": "https://www.curseforge.com/projects/790626",
+        "url": "https://modrinth.com/mod/modernfix",
         "version": "5.20.2+mc1.20.1"
     },
     {
-        "authors": [
-            "Markus Bordihn"
-        ],
+        "authors": ["Markus Bordihn"],
         "filename": "mods_optimizer-forge-1.20.1-2.0.0.jar",
         "name": "Mods Optimizer",
-        "url": "https://modrinth.com/mod/hlVtb1H0",
+        "url": "https://modrinth.com/mod/mods-optimizer",
         "version": "2.0.0"
     },
     {
-        "authors": [
-            "MehVahdJukaar"
-        ],
+        "authors": ["MehVahdJukaar"],
         "filename": "moonlight-1.20-2.13.65-forge.jar",
         "name": "Moonlight Library",
-        "url": "https://www.curseforge.com/projects/499980",
+        "url": "https://modrinth.com/mod/moonlight",
         "version": "1.20-2.13.65"
     },
     {
-        "authors": [
-            "Commoble"
-        ],
+        "authors": ["Commoble"],
         "filename": "morered-1.20.1-4.0.0.4.jar",
         "name": "More Red",
-        "url": "https://www.curseforge.com/projects/387638",
+        "url": "https://modrinth.com/mod/morered",
         "version": "4.0.0.4"
     },
     {
-        "authors": [
-            "Ivan Molodetskikh (YaLTeR)"
-        ],
+        "authors": ["Ivan Molodetskikh (YaLTeR)"],
         "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
         "name": "Mouse Tweaks",
-        "url": "https://www.curseforge.com/projects/60089",
+        "url": "https://modrinth.com/mod/mouse-tweaks",
         "version": "2.25.1"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "movingelevators-1.4.10-forge-mc1.20.1.jar",
         "name": "Moving Elevators",
-        "url": "https://www.curseforge.com/projects/373051",
+        "url": "https://modrinth.com/mod/moving-elevators",
         "version": "1.4.10"
     },
     {
-        "authors": [
-            "MrCrayfish"
-        ],
+        "authors": ["MrCrayfish"],
         "filename": "CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
         "name": "MrCrayfish's Gun Mod",
-        "url": "https://www.curseforge.com/projects/945471",
+        "url": "https://modrinth.com/mod/cgm",
         "version": "1.4.18"
     },
     {
-        "authors": [
-            "focamacho"
-        ],
+        "authors": ["focamacho"],
         "filename": "MyServerIsCompatible-1.20-1.0.jar",
         "name": "MyServerIsCompatible",
-        "url": "https://www.curseforge.com/projects/492574",
+        "url": "https://modrinth.com/mod/myserveriscompatible",
         "version": "1.0"
     },
     {
-        "authors": [
-            "focamacho"
-        ],
+        "authors": ["focamacho"],
         "filename": "MysticalAdaptations-1.20.1-1.0.1.jar",
         "name": "Mystical Adaptations",
         "url": "https://www.curseforge.com/projects/325892",
         "version": "1.20.1-1.0.1"
     },
     {
-        "authors": [
-            "BlakeBr0"
-        ],
+        "authors": ["BlakeBr0"],
         "filename": "MysticalAgradditions-1.20.1-7.0.8.jar",
         "name": "Mystical Agradditions",
-        "url": "https://www.curseforge.com/projects/256247",
+        "url": "https://modrinth.com/mod/mystical-agradditions",
         "version": "7.0.8"
     },
     {
-        "authors": [
-            "BlakeBr0"
-        ],
+        "authors": ["BlakeBr0"],
         "filename": "MysticalAgriculture-1.20.1-7.0.16.jar",
         "name": "Mystical Agriculture",
-        "url": "https://www.curseforge.com/projects/246640",
+        "url": "https://modrinth.com/mod/mystical-agriculture",
         "version": "7.0.16"
     },
     {
-        "authors": [
-            "BlakeBr0"
-        ],
+        "authors": ["BlakeBr0"],
         "filename": "MysticalCustomization-1.20.1-5.0.2.jar",
         "name": "Mystical Customization",
-        "url": "https://www.curseforge.com/projects/280441",
+        "url": "https://modrinth.com/mod/mystical-customization",
         "version": "5.0.2"
     },
     {
-        "authors": [
-            "ChaosTheDude"
-        ],
+        "authors": ["ChaosTheDude"],
         "filename": "NaturesCompass-1.20.1-1.11.2-forge.jar",
         "name": "Nature's Compass",
-        "url": "https://www.curseforge.com/projects/252848",
+        "url": "https://modrinth.com/mod/natures-compass",
         "version": "1.20.1-1.11.2-forge"
     },
     {
-        "authors": [
-            "BlayTheNinth"
-        ],
+        "authors": ["BlayTheNinth"],
         "filename": "netherportalfix-forge-1.20-13.0.1.jar",
         "name": "NetherPortalFix",
-        "url": "https://www.curseforge.com/projects/241160",
+        "url": "https://modrinth.com/mod/netherportalfix",
         "version": "13.0.1"
     },
     {
-        "authors": [
-            "Cadentem"
-        ],
+        "authors": ["Cadentem"],
         "filename": "obscure_tooltips_fix-1.20.1-1.1.0-all.jar",
         "name": "Obscure Tooltips Fix",
         "url": "https://www.curseforge.com/projects/1103943",
         "version": "1.1.0"
     },
     {
-        "authors": [
-            "Joseph T. McQuigg (JT122406), AOCAWOL, YaBoiChips, Corgi Taco"
-        ],
+        "authors": ["Joseph T. McQuigg (JT122406)", "AOCAWOL", "YaBoiChips", "Corgi Taco"],
         "filename": "Oh-The-Biomes-Weve-Gone-Forge-1.5.5.jar",
         "name": "Oh The Biomes We've Gone",
-        "url": "https://www.curseforge.com/projects/1070751",
+        "url": "https://modrinth.com/mod/oh-the-biomes-weve-gone",
         "version": "1.5.5"
     },
     {
-        "authors": [
-            "Corgi Taco"
-        ],
+        "authors": ["Corgi Taco"],
         "filename": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.4.jar",
         "name": "Oh The Trees You'll Grow",
-        "url": "https://www.curseforge.com/projects/962544",
+        "url": "https://modrinth.com/mod/oh-the-trees-youll-grow",
         "version": "1.20.1-1.3.4"
     },
     {
-        "authors": [
-            "TonimatasDEV"
-        ],
+        "authors": ["TonimatasDEV"],
         "filename": "packetfixer-forge-2.0.0-1.19-to-1.20.1.jar",
         "name": "Packet Fixer",
-        "url": "https://www.curseforge.com/projects/689467",
+        "url": "https://modrinth.com/mod/packet-fixer",
         "version": "2.0.0"
     },
     {
-        "authors": [
-            "Vazkii"
-        ],
+        "authors": ["Vazkii"],
         "filename": "Patchouli-1.20.1-84.1-FORGE.jar",
         "name": "Patchouli",
-        "url": "https://www.curseforge.com/projects/306770",
+        "url": "https://modrinth.com/mod/patchouli",
         "version": "1.20.1-84.1-FORGE"
     },
     {
-        "authors": [
-            "Shadows_of_Fire"
-        ],
+        "authors": ["Shadows_of_Fire"],
         "filename": "Placebo-1.20.1-8.6.2.jar",
         "name": "Placebo",
-        "url": "https://www.curseforge.com/projects/283644",
+        "url": "https://modrinth.com/mod/placebo",
         "version": "8.6.2"
     },
     {
-        "authors": [
-            "desht, MineMaarten"
-        ],
+        "authors": ["desht", "MineMaarten"],
         "filename": "pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar",
         "name": "PneumaticCraft: Repressurized",
-        "url": "https://www.curseforge.com/projects/281849",
+        "url": "https://modrinth.com/mod/pneumaticcraft-repressurized",
         "version": "6.0.20+mc1.20.1"
     },
     {
-        "authors": [
-            "CreeperHost"
-        ],
+        "authors": ["CreeperHost"],
         "filename": "polylib-forge-2000.0.3-build.143.jar",
         "name": "PolyLib",
-        "url": "https://www.curseforge.com/projects/576589",
+        "url": "https://modrinth.com/mod/polylib",
         "version": "2000.0.3-build.143"
     },
     {
-        "authors": [
-            "Illusive Soulworks"
-        ],
+        "authors": ["Illusive Soulworks"],
         "filename": "polymorph-forge-0.49.8+1.20.1.jar",
         "name": "Polymorph",
-        "url": "https://www.curseforge.com/projects/388800",
+        "url": "https://modrinth.com/mod/polymorph",
         "version": "0.49.8+1.20.1"
     },
     {
-        "authors": [
-            "owmii,Technici4n"
-        ],
+        "authors": ["owmii", "Technici4n"],
         "filename": "Powah-5.0.8.jar",
         "name": "Powah",
-        "url": "https://www.curseforge.com/projects/633483",
+        "url": "https://modrinth.com/mod/powah",
         "version": "5.0.8"
     },
     {
-        "authors": [
-            "Fuzs"
-        ],
+        "authors": ["Fuzs"],
         "filename": "PuzzlesLib-v8.1.25-1.20.1-Forge.jar",
         "name": "Puzzles Lib",
-        "url": "https://www.curseforge.com/projects/495476",
+        "url": "https://modrinth.com/mod/puzzles-lib",
         "version": "8.1.25"
     },
     {
-        "authors": [
-            "Vazkii, WireSegal, MCVinnyq, Sully"
-        ],
+        "authors": ["Vazkii", "WireSegal", "MCVinnyq", "Sully"],
         "filename": "Quark-4.0-460.jar",
         "name": "Quark",
-        "url": "https://www.curseforge.com/projects/243121",
+        "url": "https://modrinth.com/mod/quark",
         "version": "4.0-460"
     },
     {
-        "authors": [
-            "Vazkii, WireSegal, MCVinnyq, Sully"
-        ],
+        "authors": ["Vazkii", "WireSegal", "MCVinnyq", "Sully"],
         "filename": "QuarkOddities-1.20.1.jar",
         "name": "Quark Oddities",
         "url": "https://www.curseforge.com/projects/301051",
         "version": "1.20.1"
     },
     {
-        "authors": [
-            "Buuz135"
-        ],
+        "authors": ["Buuz135"],
         "filename": "rsrequestify-1.20.1-2.3.3.jar",
         "name": "RSRequestify",
         "url": "https://www.curseforge.com/projects/307788",
         "version": "2.3.3"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "rechiseled-1.1.6-forge-mc1.20.jar",
         "name": "Rechiseled",
-        "url": "https://www.curseforge.com/projects/558998",
+        "url": "https://modrinth.com/mod/rechiseled",
         "version": "1.1.6"
     },
     {
-        "authors": [
-            "iwolfking"
-        ],
+        "authors": ["iwolfking"],
         "filename": "rechiseled_chipped-1.1.jar",
         "name": "Rechiseled: Chipped",
         "url": "https://www.curseforge.com/projects/1007578",
         "version": "1.1"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "rechiseledcreate-1.0.2-forge-mc1.20.jar",
         "name": "Rechiseled: Create",
-        "url": "https://www.curseforge.com/projects/888624",
+        "url": "https://modrinth.com/mod/rechiseled-create",
         "version": "1.0.2"
     },
     {
-        "authors": [
-            "TeamPotato"
-        ],
+        "authors": ["TeamPotato"],
         "filename": "redirector-5.0.0.jar",
         "name": "Redirector",
-        "url": "https://www.curseforge.com/projects/877289",
+        "url": "https://modrinth.com/mod/redirector",
         "version": "5.0.0"
     },
     {
-        "authors": [
-            "Refined Mods"
-        ],
+        "authors": ["Refined Mods"],
         "filename": "refinedstorage-1.12.4.jar",
         "name": "Refined Storage",
-        "url": "https://www.curseforge.com/projects/243076",
+        "url": "https://modrinth.com/mod/refined-storage",
         "version": "1.12.4"
     },
     {
-        "authors": [
-            "Refined Mods"
-        ],
+        "authors": ["Refined Mods"],
         "filename": "refinedstorageaddons-0.10.0.jar",
         "name": "Refined Storage Addons",
-        "url": "https://www.curseforge.com/projects/272302",
+        "url": "https://modrinth.com/mod/refined-storage-addons",
         "version": "0.10.0"
     },
     {
-        "authors": [
-            "ThatGravyBoat, Epic_Oreo"
-        ],
+        "authors": ["ThatGravyBoat", "Epic_Oreo"],
         "filename": "resourcefullib-forge-1.20.1-2.1.29.jar",
         "name": "Resourceful Lib",
-        "url": "https://www.curseforge.com/projects/570073",
+        "url": "https://modrinth.com/mod/resourceful-lib",
         "version": "2.1.29"
     },
     {
         "filename": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
         "name": "Resourcefulconfig",
-        "url": "https://www.curseforge.com/projects/714059",
+        "url": "https://modrinth.com/mod/resourceful-config",
         "version": "2.1.2"
     },
     {
-        "authors": [
-            "AbdElAziz"
-        ],
+        "authors": ["AbdElAziz"],
         "filename": "saturn-mc1.20.1-0.1.3.jar",
         "name": "Saturn",
-        "url": "https://www.curseforge.com/projects/670986",
+        "url": "https://modrinth.com/mod/saturn",
         "version": "0.1.3"
     },
     {
-        "authors": [
-            "Jaredlll08"
-        ],
+        "authors": ["Jaredlll08"],
         "filename": "Searchables-forge-1.20.1-1.0.3.jar",
         "name": "Searchables",
-        "url": "https://www.curseforge.com/projects/858542",
+        "url": "https://modrinth.com/mod/searchables",
         "version": "1.0.3"
     },
     {
-        "authors": [
-            "Geforce132, bl4ckscor3, Redstone_Dubstep"
-        ],
+        "authors": ["Geforce132", "bl4ckscor3", "Redstone_Dubstep"],
         "filename": "[1.20.1] SecurityCraft v1.9.12.jar",
         "name": "SecurityCraft",
-        "url": "https://www.curseforge.com/projects/64760",
+        "url": "https://modrinth.com/mod/securitycraft",
         "version": "1.9.12"
     },
     {
-        "authors": [
-            "Wesley1808"
-        ],
+        "authors": ["Wesley1808"],
         "filename": "servercore-forge-1.5.2+1.20.1.jar",
         "name": "ServerCore",
-        "url": "https://modrinth.com/mod/4WWQxlQP",
+        "url": "https://modrinth.com/mod/servercore",
         "version": "1.5.2+1.20.1"
     },
     {
-        "authors": [
-            "AbdElAziz"
-        ],
+        "authors": ["AbdElAziz"],
         "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
         "name": "Smooth Boot (Reloaded)",
-        "url": "https://modrinth.com/mod/z53V2L4P",
+        "url": "https://modrinth.com/mod/smooth-boot-reloaded",
         "version": "0.0.4"
     },
     {
-        "authors": [
-            "Someaddons"
-        ],
+        "authors": ["Someaddons"],
         "filename": "smoothchunk-1.20.1-4.0.jar",
         "name": "Smoothchunk mod",
-        "url": "https://www.curseforge.com/projects/582327",
+        "url": "https://modrinth.com/mod/smoothchunk",
         "version": "1.20.1-4.0"
     },
     {
-        "authors": [
-            "Sonic Ether, vlad2305m, Max Henkel, Saint"
-        ],
+        "authors": ["Sonic Ether", "vlad2305m", "Max Henkel", "Saint"],
         "filename": "sound-physics-remastered-forge-1.20.1-1.4.8.jar",
         "name": "Sound Physics Remastered",
-        "url": "https://www.curseforge.com/projects/535489",
+        "url": "https://modrinth.com/mod/sound-physics-remastered",
         "version": "1.20.1-1.4.8"
     },
     {
-        "authors": [
-            "IMB11"
-        ],
+        "authors": ["IMB11"],
         "filename": "Sounds-2.2.1+1.20.1+forge.jar",
         "name": "Sounds",
-        "url": "https://www.curseforge.com/projects/925889",
+        "url": "https://modrinth.com/mod/sounds",
         "version": "2.2.1+1.20.1+forge"
     },
     {
-        "authors": [
-            "Spottedleaf"
-        ],
+        "authors": ["Spottedleaf"],
         "filename": "starlight-1.1.2+forge.1cda73c.jar",
         "name": "Starlight",
-        "url": "https://www.curseforge.com/projects/526854",
+        "url": "https://modrinth.com/mod/starlight",
         "version": "1.1.2+forge.1cda73c"
     },
     {
-        "authors": [
-            "Someaddon"
-        ],
+        "authors": ["Someaddon"],
         "filename": "structureessentials-1.20.1-4.2.jar",
         "name": "Structure Essentials mod",
-        "url": "https://www.curseforge.com/projects/832882",
+        "url": "https://modrinth.com/mod/structure-essentials",
         "version": "1.20.1-4.2"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
         "name": "SuperMartijn642's Config Library",
-        "url": "https://www.curseforge.com/projects/438332",
+        "url": "https://modrinth.com/mod/supermartijn642s-config-lib",
         "version": "1.1.8"
     },
     {
-        "authors": [
-            "SuperMartijn642"
-        ],
+        "authors": ["SuperMartijn642"],
         "filename": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
         "name": "SuperMartijn642's Core Lib",
-        "url": "https://www.curseforge.com/projects/454372",
+        "url": "https://modrinth.com/mod/supermartijn642s-core-lib",
         "version": "1.1.18"
     },
     {
-        "authors": [
-            "CommandrMoose / River, Jeryn99, Magic Man, ILikePandas, Jacob K, 50ap5ud5"
-        ],
+        "authors": ["CommandrMoose / River", "Jeryn99", "Magic Man", "ILikePandas", "Jacob K", "50ap5ud5"],
         "filename": "forge-tardis_refined-mc1.20.1-v2.1.5.jar",
         "name": "TARDIS Refined",
-        "url": "https://modrinth.com/mod/nqVt6aES",
+        "url": "https://modrinth.com/mod/tardis-refined",
         "version": "2.1.5"
     },
     {
-        "authors": [
-            "Adubbz"
-        ],
+        "authors": ["Adubbz"],
         "filename": "TerraBlender-forge-1.20.1-3.0.1.7.jar",
         "name": "TerraBlender",
-        "url": "https://www.curseforge.com/projects/563928",
+        "url": "https://modrinth.com/mod/terrablender",
         "version": "3.0.1.7"
     },
     {
-        "authors": [
-            "McJty"
-        ],
+        "authors": ["McJty"],
         "filename": "theoneprobe-1.20.1-10.0.3.jar",
         "name": "The One Probe",
-        "url": "https://www.curseforge.com/projects/245211",
+        "url": "https://modrinth.com/mod/the-one-probe",
         "version": "1.20.1-10.0.3"
     },
     {
-        "authors": [
-            "mystchonky"
-        ],
+        "authors": ["mystchonky"],
         "filename": "tomeofblood-1.20.1-0.4.4-all.jar",
         "name": "Tome of Blood: Rebirth",
         "url": "https://www.curseforge.com/projects/911546",
         "version": "0.4.4"
     },
     {
-        "authors": [
-            "Kubek, Biban_Auriu, Cristelknight"
-        ],
+        "authors": ["Kubek", "Biban_Auriu", "Cristelknight"],
         "filename": "Towns-and-Towers-1.12-Fabric+Forge.jar",
         "name": "Towns and Towers",
-        "url": "https://www.curseforge.com/projects/626761",
+        "url": "https://modrinth.com/mod/towns-and-towers",
         "version": "1.10.2"
     },
     {
-        "authors": [
-            "CDAGaming"
-        ],
+        "authors": ["CDAGaming"],
         "filename": "UniLib-1.0.5+1.20.1-forge.jar",
         "name": "UniLib",
         "url": "https://www.curseforge.com/projects/1056812",
         "version": "1.0.5"
     },
     {
-        "authors": [
-            "talhanation, kaiserroman"
-        ],
+        "authors": ["talhanation", "kaiserroman"],
         "filename": "recruits-1.20.1-1.13.1.jar",
         "name": "Villager Recruits Mod",
-        "url": "https://modrinth.com/mod/WOg9lm4u",
+        "url": "https://modrinth.com/mod/villager-recruits",
         "version": "1.13.1"
     },
     {
-        "authors": [
-            "Fuzs"
-        ],
+        "authors": ["Fuzs"],
         "filename": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
         "name": "Visual Workbench",
-        "url": "https://www.curseforge.com/projects/500273",
+        "url": "https://modrinth.com/mod/visual-workbench",
         "version": "8.0.0"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG"
-        ],
+        "authors": ["YUNGNICKYOUNG"],
         "filename": "YungsApi-1.20-Forge-4.0.6.jar",
         "name": "YUNG's API",
-        "url": "https://www.curseforge.com/projects/421850",
+        "url": "https://modrinth.com/mod/yungs-api",
         "version": "1.20-Forge-4.0.6"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Tera"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Tera"],
         "filename": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
         "name": "YUNG's Better Desert Temples",
-        "url": "https://www.curseforge.com/projects/631016",
+        "url": "https://modrinth.com/mod/yungs-better-desert-temples",
         "version": "1.20-Forge-3.0.3"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Acarii"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Acarii"],
         "filename": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
         "name": "YUNG's Better Dungeons",
-        "url": "https://www.curseforge.com/projects/510089",
+        "url": "https://modrinth.com/mod/yungs-better-dungeons",
         "version": "1.20-Forge-4.0.4"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Acarii"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Acarii"],
         "filename": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
         "name": "YUNG's Better End Island",
-        "url": "https://www.curseforge.com/projects/901344",
+        "url": "https://modrinth.com/mod/yungs-better-end-island",
         "version": "1.20-Forge-2.0.6"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Tera"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Tera"],
         "filename": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
         "name": "YUNG's Better Jungle Temples",
-        "url": "https://www.curseforge.com/projects/897669",
+        "url": "https://modrinth.com/mod/yungs-better-jungle-temples",
         "version": "1.20-Forge-2.0.5"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG"
-        ],
+        "authors": ["YUNGNICKYOUNG"],
         "filename": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
         "name": "YUNG's Better Mineshafts",
-        "url": "https://www.curseforge.com/projects/389665",
+        "url": "https://modrinth.com/mod/yungs-better-mineshafts",
         "version": "1.20-Forge-4.0.4"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Acarii"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Acarii"],
         "filename": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
         "name": "YUNG's Better Nether Fortresses",
-        "url": "https://www.curseforge.com/projects/817651",
+        "url": "https://modrinth.com/mod/yungs-better-nether-fortresses",
         "version": "1.20-Forge-2.0.6"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Tera"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Tera"],
         "filename": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
         "name": "YUNG's Better Ocean Monuments",
-        "url": "https://www.curseforge.com/projects/689238",
+        "url": "https://modrinth.com/mod/yungs-better-ocean-monuments",
         "version": "1.20-Forge-3.0.4"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Acarii"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Acarii"],
         "filename": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
         "name": "YUNG's Better Strongholds",
-        "url": "https://www.curseforge.com/projects/465575",
+        "url": "https://modrinth.com/mod/yungs-better-strongholds",
         "version": "1.20-Forge-4.0.3"
     },
     {
-        "authors": [
-            "YUNGNICKYOUNG, Acarii"
-        ],
+        "authors": ["YUNGNICKYOUNG", "Acarii"],
         "filename": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
         "name": "YUNG's Better Witch Huts",
-        "url": "https://www.curseforge.com/projects/631401",
+        "url": "https://modrinth.com/mod/yungs-better-witch-huts",
         "version": "1.20-Forge-3.0.3"
     },
     {
-        "authors": [
-            "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar"
-        ],
+        "authors": ["Vazkii", "quat", "IThundxr", "siuol", "wiresegal", "MehVahdJukaar"],
         "filename": "Zeta-1.0-24.jar",
         "name": "Zeta",
-        "url": "https://www.curseforge.com/projects/968868",
+        "url": "https://modrinth.com/mod/zeta",
         "version": "1.0-24"
     },
     {
-        "authors": [
-            "Love, Cheese and small house plants"
-        ],
+        "authors": ["Love", "Cheese and small house plants"],
         "filename": "clickadv-1.20.1-3.8.jar",
         "name": "clickadv mod",
-        "url": "https://www.curseforge.com/projects/511733",
+        "url": "https://modrinth.com/mod/clickadv",
         "version": "1.20.1-3.8"
     },
     {
-        "authors": [
-            "Someaddon"
-        ],
+        "authors": ["Someaddon"],
         "filename": "fastasyncworldsave-1.20.1-2.3.jar",
         "name": "fastasyncworldsave mod",
-        "url": "https://www.curseforge.com/projects/951499",
+        "url": "https://modrinth.com/mod/fastasyncworldsave",
         "version": "1.20.1-2.3"
     }
 ]

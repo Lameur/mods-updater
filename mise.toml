@@ -23,7 +23,7 @@ cargo-binstall = "latest"
 pre-commit = "latest"
 
 taplo = "latest"
-# typos = "latest"
+typos = "latest"
 
 wait-for-gh-rate-limit = "latest"
 
