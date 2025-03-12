@@ -29,7 +29,7 @@ config = "0.15.9"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 reqwest = { version = "0.12", features = ["json"] }
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.44", features = ["full"] }
 
 [build-dependencies]
 cross = "0.2"
